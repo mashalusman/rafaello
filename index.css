@@ -1,0 +1,40 @@
+.background {
+    background-color:peru;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.banner {
+    color: white;
+    margin-top: 45px;
+    text-align: center;
+    padding: 3%;
+}
+
+#small-rafaello {
+    height: 400px;
+    width: 550px;
+    border-style: double;
+    border-width: 2rem;
+    border-color:beige;
+}
+
+
+#rafaello {
+    color:dimgray;
+    font-size: 60px;
+}
+
+
+.bold {
+    font-weight: 600;
+
+}
+
+.bullets {
+    text-align: left;
+
+}
